@@ -1,6 +1,6 @@
 # pystreams-kafka
 #### Kafka Streams DSL for Python (Open Source)
-##### Notes on current status:
+#### Notes on current status:
 <ol>
 <li>Expect first release in June 2019</li>
 <li>Testing and debug in progress</li>
